@@ -6,7 +6,7 @@
     
     ( Working on ) i'll also generate username by occupation , adjectives , Something you like 
    
- ## See also :- Password-Generator
+ ## See also :- Password-Generator(memr5)
     
     memr5/Password-Generator :- https://github.com/memr5/Password-Generator.git
     
