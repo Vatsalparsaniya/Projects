@@ -41,16 +41,16 @@
     
 2) Password Generator(JAVA)
     
-    **Create random different password of different length <br>
+    **Create random different password of different length **<br>
     <br>
     Some Example:<br>
-     **1) Eassy-[Numbers]-<br>
+     **1) Eassy-[Numbers]**-<br>
                 [ 1052309928 , 7636972947 , 1040851356 ]<br>
-     **2) Simple-[Numbers,Lower_case]-<br>
+     **2) Simple-[Numbers,Lower_case]**-<br>
                 [ 0v81hkw2e5 , v377yf3v3u , 1gm88o4p8k ]<br>
-     **3) Moderate-[Numbers,Lower_case,Upper_case]-<br>
+     **3) Moderate-[Numbers,Lower_case,Upper_case]**-<br>
                 [ 5m3Vsb1S0E , Ww4g5C84uR , C46xc2gST2 ]<br>
-     **4) Advance-[Numbers,Lower_case,Upper_case,Special_char]-<br>
+     **4) Advance-[Numbers,Lower_case,Upper_case,Special_char]**-<br>
                 [ Kp!9I+e60r , Mw2h3)tJ%4 , en=3-A1P0z ]<br>
     <br>
     
