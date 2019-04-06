@@ -2,7 +2,7 @@
 
 1) User Name Generator 
     
-    Create different user name by your Full name , birthDate , Special charactor occupation , adjectives , Something you like
+    **Create different user name by your Full name , birthDate , Special charactor occupation , adjectives , Something you like
     
     o/p :
     PS D:\Programming\User_Name_Generator> javac .\UserNameGenerator.java <br>
@@ -41,13 +41,17 @@
     
 2) Password Generator(JAVA)
     
-    Create random different password of different length <br>
+    **Create random different password of different length <br>
     <br>
-    Some Example:<be>
-     1) Eassy-[Numbers]-[ 1052309928 , 7636972947 , 1040851356 ]<br>
-     2) Simple-[Numbers,Lower_case]-[ 0v81hkw2e5 , v377yf3v3u , 1gm88o4p8k ]<br>
-     3) Moderate-[Numbers,Lower_case,Upper_case]-[ 5m3Vsb1S0E , Ww4g5C84uR , C46xc2gST2 ]<br>
-     4) Advance-[Numbers,Lower_case,Upper_case,Special_char]-[ Kp!9I+e60r , Mw2h3)tJ%4 , en=3-A1P0z ]<br>
+    Some Example:<br>
+     **1) Eassy-[Numbers]-<br>
+                [ 1052309928 , 7636972947 , 1040851356 ]<br>
+     **2) Simple-[Numbers,Lower_case]-<br>
+                [ 0v81hkw2e5 , v377yf3v3u , 1gm88o4p8k ]<br>
+     **3) Moderate-[Numbers,Lower_case,Upper_case]-<br>
+                [ 5m3Vsb1S0E , Ww4g5C84uR , C46xc2gST2 ]<br>
+     **4) Advance-[Numbers,Lower_case,Upper_case,Special_char]-<br>
+                [ Kp!9I+e60r , Mw2h3)tJ%4 , en=3-A1P0z ]<br>
     <br>
     
 
