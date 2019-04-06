@@ -2,7 +2,7 @@
 
 1) User Name Generator 
     
-    **Create different user name by your Full name , birthDate , Special charactor occupation , adjectives , Something you like
+    **Create different user name by your Full name , birthDate , Special charactor occupation , adjectives , Something you like**
     
     o/p :
     PS D:\Programming\User_Name_Generator> javac .\UserNameGenerator.java <br>
