@@ -43,15 +43,13 @@
     
     Create random different password of different length <br>
     <br>
-    PS D:\Programming\PassWord_Generator> java PassWord_Generator<br>
-    Enter length of your pasword :10<br>
-    Which type of password you want :<br>
-    1) Eassy-[Numbers]<br>
-    2) Simple-[Numbers,Lower_case]<br>
-    3) Moderate-[Numbers,Lower_case,Upper_case]<br>
-    4) Advance-[Numbers,Lower_case,Upper_case,Special_char]<br>
-    4<br>
-    your password is :d8_*W6sv9S<br>
+    Some Example:<be>
+    ###1) Eassy-[Numbers]-[ 1052309928 , 7636972947 , 1040851356 ]<br>
+    ###2) Simple-[Numbers,Lower_case]-[ 0v81hkw2e5 , v377yf3v3u , 1gm88o4p8k ]<br>
+    ###3) Moderate-[Numbers,Lower_case,Upper_case]-[ 5m3Vsb1S0E , Ww4g5C84uR , C46xc2gST2 ]<br>
+    ###4) Advance-[Numbers,Lower_case,Upper_case,Special_char]-[ Kp!9I+e60r , Mw2h3)tJ%4 , en=3-A1P0z ]<br>
+    <br>
+    
 
  ## See also :- Password-Generator(memr5)
     
