@@ -90,23 +90,43 @@ class PassWord_Generator{
           }
         break;
       case 4 :
+          HashSet<String> h = new HashSet<String>();
           while(true){
               random = rand.nextInt(100000)/10000;
+              while(h.contains(string1.substring(random, random+1))){
+                  random = rand.nextInt(100000)/10000;
+              }
+              h.add(string1.substring(random, random+1));
               pass = pass.concat(string1.substring(random,random+1));
               if(pass.length() >= length){
                 break;
               }
+
               random = rand.nextInt(260000)/10000;
+              while(h.contains(string2.substring(random, random+1))){
+                  random = rand.nextInt(260000)/10000;
+              }
+              h.add(string2.substring(random, random+1));
               pass = pass.concat(string2.substring(random,random+1));
               if(pass.length() >= length){
                 break;
               }
+
               random = rand.nextInt(260000)/10000;
+              while(h.contains(string3.substring(random, random+1))){
+                  random = rand.nextInt(260000)/10000;
+              }
+              h.add(string3.substring(random, random+1));
               pass = pass.concat(string3.substring(random,random+1));
               if(pass.length() >= length){
                 break;
               }
+
               random = rand.nextInt(160000)/10000;
+              while(h.contains(string4.substring(random, random+1))){
+                  random = rand.nextInt(160000)/10000;
+              }
+              h.add(string4.substring(random, random+1));
               pass = pass.concat(string4.substring(random,random+1));
               if(pass.length() >= length){
                 break;
