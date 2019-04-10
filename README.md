@@ -52,10 +52,11 @@
                 [ 5m3Vsb1S0E , Ww4g5C84uR , C46xc2gST2 ]<br>
      **4) Advance-[Numbers,Lower_case,Upper_case,Special_char]**-<br>
                 [ Kp!9I+e60r , Mw2h3)tJ%4 , en=3-A1P0z ]<br>
-    <br>
-3) My Profile
+3) My_Profile
     Social media profile Web-page using HTML and CSS
-    
+    <img src="My_profile/Screenshot (6).png"
+     alt="Screen Short"
+     style="float: left; margin-right: 10px;" />
 
  ## See also :- Password-Generator(memr5)
     
